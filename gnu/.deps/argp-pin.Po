@@ -1,0 +1,2 @@
+argp-pin.o: argp-pin.c ../config.h
+../config.h:

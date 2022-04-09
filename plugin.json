@@ -1,0 +1,7 @@
+{
+	"name": "xmind",
+	"suffix": [
+		"xmind"
+	],
+	"exec": "xmind.bat \"*SEER_INPUT_PATH*\" \"*SEER_OUTPUT_PATH*\""
+}
